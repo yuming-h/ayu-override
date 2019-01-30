@@ -1,10 +1,16 @@
 {
     "workbench.colorTheme": "Ayu Dark",
     "workbench.colorCustomizations": {
+        "sideBar.foreground": "#cacaca",
+        "sideBarTitle.foreground": "#e0e0e0",
+        "sideBarSectionHeader.foreground": "#e0e0e0",
+        "list.inactiveSelectionForeground": "#e0e0e0",
+        "list.focusForeground": "#e0e0e0",
+        "list.hoverForeground": "#e0e0e0",
         "activityBar.inactiveForeground": "#707070",
         "activityBar.foreground": "#cacaca",
         "descriptionForeground": "#f0f0f0",
-        "foreground": "#d1d1d1",
+        "foreground": "#e0e0e0",
         "selection.background": "#f0f0f0",
         "button.foreground": "#f0f0f0",
         "dropdown.foreground": "#cacaca",
