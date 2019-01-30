@@ -1,0 +1,21 @@
+{
+    "workbench.colorTheme": "Ayu Dark",
+    "workbench.colorCustomizations": {
+        "activityBar.inactiveForeground": "#707070",
+        "activityBar.foreground": "#cacaca",
+        "descriptionForeground": "#f0f0f0",
+        "foreground": "#d1d1d1",
+        "selection.background": "#f0f0f0",
+        "button.foreground": "#f0f0f0",
+        "dropdown.foreground": "#cacaca",
+        "tab.activeForeground": "#f0f0f0",
+        "tab.inactiveForeground": "#a5a5a5",
+        "editorLineNumber.foreground": "#999999",
+        "editorLineNumber.activeForeground": "#f0f0f0",
+        "notifications.foreground": "#f0f0f0",
+        "panelTitle.inactiveForeground": "#a5a5a5"
+    },
+    "editor.tokenColorCustomizations": {
+        "comments": "#d4922f"
+    }
+}
