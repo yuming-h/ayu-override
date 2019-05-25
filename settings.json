@@ -1,27 +1,26 @@
-{
-    "workbench.colorTheme": "Ayu Dark",
-    "workbench.colorCustomizations": {
+"workbench.colorCustomizations": {
         "sideBar.foreground": "#cacaca",
-        "sideBarTitle.foreground": "#e0e0e0",
-        "sideBarSectionHeader.foreground": "#e0e0e0",
-        "list.inactiveSelectionForeground": "#e0e0e0",
+        "sideBarTitle.foreground": "#b3b1ad",
+        "sideBarSectionHeader.foreground": "#b3b1ad",
+        "list.inactiveSelectionForeground": "#b3b1ad",
         "list.focusForeground": "#e0e0e0",
         "list.hoverForeground": "#e0e0e0",
-        "activityBar.inactiveForeground": "#707070",
-        "activityBar.foreground": "#cacaca",
-        "descriptionForeground": "#f0f0f0",
-        "foreground": "#e0e0e0",
+        "activityBar.inactiveForeground": "#b3b1ad",
+        "activityBar.foreground": "#b3b1ad",
+        "descriptionForeground": "#b3b1ad",
+        "foreground": "#b3b1ad",
         "selection.background": "#f0f0f0",
         "button.foreground": "#f0f0f0",
         "dropdown.foreground": "#cacaca",
         "tab.activeForeground": "#f0f0f0",
         "tab.inactiveForeground": "#a5a5a5",
-        "editorLineNumber.foreground": "#999999",
-        "editorLineNumber.activeForeground": "#f0f0f0",
+        "editorLineNumber.foreground": "#b3b1ad",
+        "editorLineNumber.activeForeground": "#fffdf7",
         "notifications.foreground": "#f0f0f0",
-        "panelTitle.inactiveForeground": "#a5a5a5"
+        "panelTitle.inactiveForeground": "#a5a5a5",
+        "editor.selectionBackground": "#135564",
+        "editor.selectionHighlightBackground": "#135564"
     },
     "editor.tokenColorCustomizations": {
-        "comments": "#d4922f"
+        "comments": "#d4e06b"
     }
-}
