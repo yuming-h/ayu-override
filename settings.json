@@ -19,7 +19,8 @@
         "notifications.foreground": "#f0f0f0",
         "panelTitle.inactiveForeground": "#a5a5a5",
         "editor.selectionBackground": "#135564",
-        "editor.selectionHighlightBackground": "#135564"
+        "editor.selectionHighlightBackground": "#135564",
+        "statusBar.foreground": "#b3b1ad"
     },
     "editor.tokenColorCustomizations": {
         "comments": "#d4e06b"
