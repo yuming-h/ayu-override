@@ -4,45 +4,46 @@
         "sideBar.foreground": "#b3b1ad",
         "sideBarTitle.foreground": "#b3b1ad",
         "sideBarSectionHeader.foreground": "#b3b1ad",
-
         "list.inactiveSelectionForeground": "#b3b1ad",
         "list.activeSelectionForeground": "#b3b1ad",
         "list.focusForeground": "#b3b1ad",
         "list.hoverForeground": "#b3b1ad",
-
         "gitDecoration.ignoredResourceForeground": "#716f6c",
-
         "activityBar.inactiveForeground": "#b3b1ad",
         "activityBar.foreground": "#b3b1ad",
-
         "descriptionForeground": "#b3b1ad",
         "foreground": "#b3b1ad",
         "selection.background": "#b3b1ad",
-        "button.foreground": "#b3b1ad",
         "dropdown.foreground": "#b3b1ad",
-
         "tab.activeForeground": "#b3b1ad",
         "tab.inactiveForeground": "#b3b1ad",
-        
         "notifications.foreground": "#b3b1ad",
         "panelTitle.inactiveForeground": "#b3b1ad",
-        
         "editorLineNumber.foreground": "#b3b1ad",
         "editorLineNumber.activeForeground": "#FF9940",
         "editor.selectionBackground": "#135564",
         "editor.selectionHighlightBackground": "#135564",
-
         "statusBar.foreground": "#b3b1ad",
-        // "editorCursor.foreground": "#808080",
-        // "terminalCursor.foreground": "#808080"
+        "button.foreground": "#fff",
+        "button.background": "#ff9040c5",
     },
     "editor.tokenColorCustomizations": {
         "comments": "#716f6c"
     },
 
     "vim.useSystemClipboard": true,
+    // mac
     "vim.handleKeys": {
         "<D-c>": false,
         "<D-v>": false
-    }
+    },
+    // windows
+    // "vim.handleKeys": {
+    //     "<C-w>": false,
+    //     "<C-f>": false,
+    //     "<C-x>": false,
+    //     "<C-c>": false,
+    // },
+    
+    
 }
