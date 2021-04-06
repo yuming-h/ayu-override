@@ -1,4 +1,6 @@
 {
+    "editor.minimap.enabled": false,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
     "workbench.colorTheme": "Ayu Dark",
     "workbench.colorCustomizations": {
         "sideBar.foreground": "#b3b1ad",
@@ -8,7 +10,8 @@
         "list.activeSelectionForeground": "#b3b1ad",
         "list.focusForeground": "#b3b1ad",
         "list.hoverForeground": "#b3b1ad",
-        "gitDecoration.ignoredResourceForeground": "#716f6c",
+        "gitDecoration.ignoredResourceForeground": "#808080",
+        "gitDecoration.modifiedResourceForeground": "#50b0ff",
         "activityBar.inactiveForeground": "#b3b1ad",
         "activityBar.foreground": "#b3b1ad",
         "descriptionForeground": "#b3b1ad",
@@ -26,6 +29,8 @@
         "statusBar.foreground": "#b3b1ad",
         "button.foreground": "#fff",
         "button.background": "#ff9040c5",
+        "input.placeholderForeground": "#808080",
+        "inputOption.activeForeground": "#b3b1ad",
     },
     "editor.tokenColorCustomizations": {
         "comments": "#716f6c"
